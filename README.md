@@ -1,4 +1,6 @@
-# Lab: Amazon S3 Versioning and Object Lifecycle Management
+# Lab-7: Amazon S3 Versioning and Object Lifecycle Management
+
+https://www.youtube.com/watch?v=MRkoCnWp-t4&t=181s
 
 Objective
 
